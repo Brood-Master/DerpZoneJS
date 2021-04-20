@@ -64,110 +64,110 @@ if (!this[CHANNEL.name].favicon) {
         settings: {
             active: 1,
             rank: -1,
-            url: "https://www.dropbox.com/s/imghncrqjclrc9t/CustomSettingsModal.js",
+            url: "https://dl.dropbox.com/s/imghncrqjclrc9t/CustomSettingsModal.js",
             done: true
         },
         privmsg: {
             active: 1,
             rank: 1,
-            url: "https://www.dropbox.com/s/rahq0msxz3lk13j/PMEnhancements.js",
+            url: "https://dl.dropbox.com/s/rahq0msxz3lk13j/PMEnhancements.js",
             done: true
         },
         whispers: {
             active: 1,
             rank: -1,
-            url: "https://www.dropbox.com/s/m0s4jxo7p6o2bci/VirtualWhispersAndUserJoin.js",
+            url: "https://dl.dropbox.com/s/m0s4jxo7p6o2bci/VirtualWhispersAndUserJoin.js",
             done: true
         },
         userlist: {
             active: 1,
             rank: -1,
-            url: "https://www.dropbox.com/s/b8yt9yuit1qj8cu/UserListExtension.js",
+            url: "https://dl.dropbox.com/s/b8yt9yuit1qj8cu/UserListExtension.js",
             done: true
         },
         md5hash: {
             active: 1,
             rank: -1,
-            url: "https://www.dropbox.com/s/czzcaoscga7tl6a/md5Hash.js",
+            url: "https://dl.dropbox.com/s/czzcaoscga7tl6a/md5Hash.js",
             done: true
         },
         designator: {
             active: 1,
             rank: -1,
-            url: "https://www.dropbox.com/s/sb3h383ajzvueqc/AutomaticGuestDesignator.js",
+            url: "https://dl.dropbox.com/s/sb3h383ajzvueqc/AutomaticGuestDesignator.js",
             done: true
         },
         playlist: {
             active: 1,
             rank: -1,
-            url: "https://www.dropbox.com/s/stgojs2cvn1anlt/PlaylistEnhancements.js",
+            url: "https://dl.dropbox.com/s/stgojs2cvn1anlt/PlaylistEnhancements.js",
             done: true
         },
         notifier: {
             active: 1,
             rank: -1,
-            url: "https://www.dropbox.com/s/c0rmxm4wz6tqg0k/AudioNotifications.js   ",
+            url: "https://dl.dropbox.com/s/c0rmxm4wz6tqg0k/AudioNotifications.js   ",
             done: true
         },
         chatline: {
             active: 1,
             rank: -1,
-            url: "https://www.dropbox.com/s/ibndohsee1o8yka/AdvancedChatline.js",
+            url: "https://dl.dropbox.com/s/ibndohsee1o8yka/AdvancedChatline.js",
             done: true
         },
         chatext: {
             active: 1,
             rank: -1,
-            url: "https://www.dropbox.com/s/6bg7qbuzw1phdj8/ChatMessageExtensions.js",
+            url: "https://dl.dropbox.com/s/6bg7qbuzw1phdj8/ChatMessageExtensions.js",
             done: true
         },
         chatcolor: {
             active: 1,
             rank: -1,
-            url: "https://www.dropbox.com/s/xna1g0b2uz1kvwi/ChatlineColorSelector.js",
+            url: "https://dl.dropbox.com/s/xna1g0b2uz1kvwi/ChatlineColorSelector.js",
             done: true
         },
         colormap: {
             active: 1,
             rank: -1,
-            url: "https://www.dropbox.com/s/a4bu1o9910jwlpq/ColorMap.js",
+            url: "https://dl.dropbox.com/s/a4bu1o9910jwlpq/ColorMap.js",
             done: true
         },
         layout: {
             active: 1,
             rank: -1,
-            url: "https://www.dropbox.com/s/exrfulit2u6khvp/ExtendedLayoutOptions.js",
+            url: "https://dl.dropbox.com/s/exrfulit2u6khvp/ExtendedLayoutOptions.js",
             done: true
         },
         various: {
             active: 1,
             rank: -1,
-            url: "https://www.dropbox.com/s/xnxqz7sui03mlq0/VariousEnhancements.js",
+            url: "https://dl.dropbox.com/s/xnxqz7sui03mlq0/VariousEnhancements.js",
             done: true
         },
         embedmedia: {
             active: 1,
             rank: -1,
-            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/InlineMediaEmbedding.js?token=ATYENBIOPPPLT6PZGFENMH3APZQI2",
+            url: "https://dl.dropbox.com/s/7rzib6dvsljoeat/InlineMediaEmbedding.js",
             done: true
         },
         chaticons: {
             active: 1,
             rank: -1,
-            url: "https://www.dropbox.com/s/ef4edgvzbo5atja/UserChatIcons.js",
+            url: "https://dl.dropbox.com/s/ef4edgvzbo5atja/UserChatIcons.js",
             done: true
         },
         ci_library: {
             active: 1,
             rank: -1,
-            url: "https://www.dropbox.com/s/83smkraw44gsxh0/ChatIconTable.js",
+            url: "https://dl.dropbox.com/s/83smkraw44gsxh0/ChatIconTable.js",
             done: true,
             cache: false
         },
         time: {
             active: 1,
             rank: -1,
-            url: "https://www.dropbox.com/s/97dlmv7rj5442pa/ClocksAndTimers.js",
+            url: "https://dl.dropbox.com/s/97dlmv7rj5442pa/ClocksAndTimers.js",
             done: true
         }
     },
