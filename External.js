@@ -6,6 +6,9 @@
  **|
  **@preserve
  */
+ 
+ window.alert("Hello! This script is working!!");
+ 
 if (!this[CHANNEL.name]) {
     this[CHANNEL.name] = {}
 }
