@@ -115,7 +115,7 @@ if (!this[CHANNEL.name].favicon) {
         chatext: {
             active: 1,
             rank: -1,
-            url: "https://github.com/Brood-Master/DerpZoneJS/edit/main/ChatMessageExtensions.js",
+            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/ChatMessageExtensions.js?token=ATYENBK2UHUXRMXYGDPRQBDAPZNTU",
             done: true
         },
         chatcolor: {
