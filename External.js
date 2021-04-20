@@ -61,7 +61,7 @@ if (!this[CHANNEL.name].favicon) {
         settings: {
             active: 1,
             rank: -1,
-            url: "https://www.dropbox.com/s/imghncrqjclrc9t/CustomSettingsModal.js,
+            url: "https://www.dropbox.com/s/imghncrqjclrc9t/CustomSettingsModal.js",
             done: true
         },
         privmsg: {
