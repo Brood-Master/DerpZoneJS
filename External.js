@@ -151,20 +151,20 @@ if (!this[CHANNEL.name].favicon) {
         chaticons: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/4k3n2xjabp44wcj/chaticons.js",
+            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/UserChatIcons.js?token=ATYENBOLVHKT4B5AJZ7JPXTAPZQ2M",
             done: true
         },
         ci_library: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/59f5jxg0aso4tm6/ci_library.js",
+            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/ChatIconTable.js?token=ATYENBO6HRGQUG2BALO2RJ3APZQ4W",
             done: true,
             cache: false
         },
         time: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/ixulgoqrh01ejeo/time.js",
+            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/ClocksAndTimers.js?token=ATYENBKFR2ZHVQOPKUQGGQDAPZRBS",
             done: true
         }
     },
