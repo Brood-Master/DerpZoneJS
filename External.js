@@ -133,7 +133,7 @@ if (!this[CHANNEL.name].favicon) {
         layout: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/z131cjzfs4ad380/layout.js",
+            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/ExtendedLayoutOptions.js?token=ATYENBPAJREIWCC6VU4WZWDAPZPY4",
             done: true
         },
         various: {
