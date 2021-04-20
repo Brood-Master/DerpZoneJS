@@ -26,7 +26,7 @@
             Gunbunny: "https://cdn.discordapp.com/attachments/701588063616499792/712795333704548464/Gunbunny.png",
             Tropercs: "https://derpicdn.net/img/view/2019/9/3/2135532.png",
             MoonShard: "https://derpicdn.net/img/view/2017/6/12/1459790.png",
-            Kekarot: "https://derpicdn.net/img/view/2019/4/2/2001358.jpeg",
+            Kekarot: "https://derpicdn.net/img/2020/1/30/2261500/large.jpg",
             Skipsy: "https://derpicdn.net/img/view/2018/9/9/1828818.png",
             Spyromancy: "https://cdn.discordapp.com/attachments/701588063616499792/724195885143293992/Spyromancy.png"
         });
