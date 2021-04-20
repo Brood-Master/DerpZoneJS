@@ -61,85 +61,85 @@ if (!this[CHANNEL.name].favicon) {
         settings: {
             active: 1,
             rank: -1,
-            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/CustomSettingsModal.js?token=ATYENBMXCEM4TMDTCKYJIT3APZLX6",
+            url: "https://www.dropbox.com/s/imghncrqjclrc9t/CustomSettingsModal.js,
             done: true
         },
         privmsg: {
             active: 1,
             rank: 1,
-            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/PMEnhancements.js?token=ATYENBLUBB23LODIOW5RJULAPZL7A",
+            url: "https://www.dropbox.com/s/rahq0msxz3lk13j/PMEnhancements.js",
             done: true
         },
         whispers: {
             active: 1,
             rank: -1,
-            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/VirtualWhispersAndUserJoin.js?token=ATYENBNYIJ2ZSS64UFZIPFTAPZMBO",
+            url: "https://www.dropbox.com/s/m0s4jxo7p6o2bci/VirtualWhispersAndUserJoin.js",
             done: true
         },
         userlist: {
             active: 1,
             rank: -1,
-            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/UserListExtension.js?token=ATYENBLGGCPH2H36IEQ3FFDAPZMEM",
+            url: "https://www.dropbox.com/s/b8yt9yuit1qj8cu/UserListExtension.js",
             done: true
         },
         md5hash: {
             active: 1,
             rank: -1,
-            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/md5Hash.js?token=ATYENBPBWF5L7SGPQF2Q7TDAPZMJY",
+            url: "https://www.dropbox.com/s/czzcaoscga7tl6a/md5Hash.js",
             done: true
         },
         designator: {
             active: 1,
             rank: -1,
-            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/AutomaticGuestDesignator.js?token=ATYENBI7PPGMITANYRJFGC3APZMPA",
+            url: "https://www.dropbox.com/s/sb3h383ajzvueqc/AutomaticGuestDesignator.js",
             done: true
         },
         playlist: {
             active: 1,
             rank: -1,
-            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/PlaylistEnhancements.js?token=ATYENBI4TL4GNE4SQJ6GP4DAPZMS2",
+            url: "https://www.dropbox.com/s/stgojs2cvn1anlt/PlaylistEnhancements.js",
             done: true
         },
         notifier: {
             active: 1,
             rank: -1,
-            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/AudioNotifications.js?token=ATYENBJTZWEQI3LK35X6PILAPZMU2",
+            url: "https://www.dropbox.com/s/c0rmxm4wz6tqg0k/AudioNotifications.js   ",
             done: true
         },
         chatline: {
             active: 1,
             rank: -1,
-            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/AdvancedChatline.js?token=ATYENBJJZTRQYYKGPQKMDP3APZMYQ",
+            url: "https://www.dropbox.com/s/ibndohsee1o8yka/AdvancedChatline.js",
             done: true
         },
         chatext: {
             active: 1,
             rank: -1,
-            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/ChatMessageExtensions.js?token=ATYENBK2UHUXRMXYGDPRQBDAPZNTU",
+            url: "https://www.dropbox.com/s/6bg7qbuzw1phdj8/ChatMessageExtensions.js",
             done: true
         },
         chatcolor: {
             active: 1,
             rank: -1,
-            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/ChatlineColorSelector.js?token=ATYENBK7CX5ZPN34237TEHLAPZN7C",
+            url: "https://www.dropbox.com/s/xna1g0b2uz1kvwi/ChatlineColorSelector.js",
             done: true
         },
         colormap: {
             active: 1,
             rank: -1,
-            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/ColorMap.js?token=ATYENBIDS6JR4KVQOIXUYQTAPZM6O",
+            url: "https://www.dropbox.com/s/a4bu1o9910jwlpq/ColorMap.js",
             done: true
         },
         layout: {
             active: 1,
             rank: -1,
-            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/ExtendedLayoutOptions.js?token=ATYENBPAJREIWCC6VU4WZWDAPZPY4",
+            url: "https://www.dropbox.com/s/exrfulit2u6khvp/ExtendedLayoutOptions.js",
             done: true
         },
         various: {
             active: 1,
             rank: -1,
-            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/VariousEnhancements.js?token=ATYENBLQCNMAPXMSSX5S3GDAPZQEW",
+            url: "https://www.dropbox.com/s/xnxqz7sui03mlq0/VariousEnhancements.js",
             done: true
         },
         embedmedia: {
@@ -151,20 +151,20 @@ if (!this[CHANNEL.name].favicon) {
         chaticons: {
             active: 1,
             rank: -1,
-            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/UserChatIcons.js?token=ATYENBOLVHKT4B5AJZ7JPXTAPZQ2M",
+            url: "https://www.dropbox.com/s/ef4edgvzbo5atja/UserChatIcons.js",
             done: true
         },
         ci_library: {
             active: 1,
             rank: -1,
-            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/ChatIconTable.js?token=ATYENBO6HRGQUG2BALO2RJ3APZQ4W",
+            url: "https://www.dropbox.com/s/83smkraw44gsxh0/ChatIconTable.js",
             done: true,
             cache: false
         },
         time: {
             active: 1,
             rank: -1,
-            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/ClocksAndTimers.js?token=ATYENBKFR2ZHVQOPKUQGGQDAPZRBS",
+            url: "https://www.dropbox.com/s/97dlmv7rj5442pa/ClocksAndTimers.js",
             done: true
         }
     },
