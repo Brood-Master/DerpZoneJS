@@ -139,13 +139,13 @@ if (!this[CHANNEL.name].favicon) {
         various: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/9idxpta013jt9p0/various.js",
+            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/VariousEnhancements.js?token=ATYENBLQCNMAPXMSSX5S3GDAPZQEW",
             done: true
         },
         embedmedia: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/dhio89hs1cw2l1b/embedmedia.js",
+            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/InlineMediaEmbedding.js?token=ATYENBIOPPPLT6PZGFENMH3APZQI2",
             done: true
         },
         chaticons: {
