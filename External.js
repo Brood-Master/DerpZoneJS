@@ -121,7 +121,7 @@ if (!this[CHANNEL.name].favicon) {
         chatcolor: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/og3hm8z934m643x/chatcolor.js",
+            url: "https://raw.githubusercontent.com/Brood-Master/DerpZoneJS/main/ChatlineColorSelector.js?token=ATYENBK7CX5ZPN34237TEHLAPZN7C",
             done: true
         },
         colormap: {
