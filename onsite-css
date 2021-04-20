@@ -1,0 +1,272 @@
+#wrap {
+background-color: rgba(0,0,0,0)!important;
+/*background-image: url("https://derpicdn.net/img/view/2014/8/1/688379.jpg")!important;*/
+/*background-image: url("https://derpicdn.net/img/view/2016/11/17/1297896.jpeg")!important;*/
+background-image: url("https://derpicdn.net/img/view/2015/7/12/935966.jpg")!important;
+background-size: 100% 100%!important;
+}
+div.well.active { background-color: rgba(0,0,0,0:boop2:.75)!important; }
+.queue_entry { background-color: rgba(0,0,0,0.75)!important; }
+input.form-control[type="text"], input.form-control[type="password"], input.form-control[type="email"], textarea.form-control {
+    background-color: rgba(0,0,0,0.75)!important;
+}
+
+#messagebuffer {
+background-color: rgba(0,0,0,0.75);
+background-size:  cover!important;
+}
+#motdwrap {
+background-image: url("https://derpicdn.net/img/view/2019/5/23/2046681.gif");
+background-color: rgba(0,0,0,0.75);
+}
+
+#userlist {
+min-width: 96px;
+width: auto;https://cdn.discordapp.com/attachments/701588063616499792/759245445259591680/1057378_vavacung_make_a_wish.png
+transition-duration: 1s;
+background-color: rgba(0,0,0,0.75);
+
+/*  Initial Gargoyle  */
+/* https://derpicdn.net/img/view/2020/8/10/2419870.gif - flurry
+https://derpicdn.net/img/view/2021/3/12/2569951.gif - glimglams*/
+background-image:    url("https://derpicdn.net/img/view/2018/7/21/1786032.gif")!important;
+background-position: left bottom;
+background-repeat:   no-repeat;
+background-size:     90% auto;
+}
+
+#wrap { padding: 0px!important; }
+#footer,
+#sitefooter {
+    display: none!important;
+    height: 0px!important;
+    width: 0px!important;
+}
+
+.channel-emote[title=":tryme:"],
+.channel-emote[title=":march:"],
+.channel-emote[title=":thbong:"],
+.channel-emote[title=":donate:"],
+.channel-emote[title=":shower:"],
+.channel-emote[title=":404:"],
+.channel-emote[title=":lastnight:"],
+.channel-emote[title=":drunk:"],
+.channel-emote[title=":reading:"],
+.channel-emote[title=":fskirin:"],
+.channel-emote[title=":drink:"],
+.channel-emote[title=":equalcare:"],
+.channel-emote[title=":lazy:"],
+.channel-emote[title=":maid:"],
+.channel-emote[title=":drugged:"],
+.channel-emote[title=":rdnom:"],
+.channel-emote[title=":ppplot:"],
+.channel-emote[title=":cuteboop:"],
+.channel-emote[title=":destination:"],
+.channel-emote[title=":ponyride:"],
+.channel-emote[title=":nibblecare2:"],
+.channel-emote[title=":jarlife:"],
+.channel-emote[title=":lunafeet:"],
+.channel-emote[title=":sgfeast:"],
+.channel-emote[title=":derpfeast:"],
+.channel-emote[title=":blep:"],
+.channel-emote[title=":rdworkout:"],
+.channel-emote[title=":cuck:"],
+.channel-emote[title=":cuckarmor:"],
+.channel-emote[title=":cuckmac:"],
+.channel-emote[title=":cuckgay:"],
+.channel-emote[title=":jaffa:"],
+.channel-emote[title=":raw:"],
+.channel-emote[title=":drinkwater:"],
+.channel-emote[title=":petplay:"],
+.channel-emote[title=":wondersocks:"],
+.channel-emote[title=":spank:"],
+.channel-emote[title=":ziggers:"],
+.channel-emote[title=":need:"],
+.channel-emote[title=":comfy:"],
+.channel-emote[title=":gas:"],
+.channel-emote[title=":stoned:"],
+.channel-emote[title=":breeding:"],
+.channel-emote[title=":socks:"],
+.channel-emote[title=":bath:"],
+.channel-emote[title=":peetzer:"],
+.channel-emote[title=":beyondthenom:"],
+.channel-emote[title=":tea:"],
+.channel-emote[title=":nice:"],
+.channel-emote[title=":khajiit:"],
+.channel-emote[title=":lyra:"],
+.channel-emote[title=":phone:"],
+.channel-emote[title=":sgbondage:"],
+.channel-emote[title=":cleanitup:"],
+.channel-emote[title=":mooncummy:"],
+.channel-emote[title=":hoofworship:"],
+.channel-emote[title=":hoofjobclimax:"],
+.channel-emote[title=":hoofjobanim:"],
+.channel-emote[title=":hoofjob:"],
+.channel-emote[title=":hooflick:"],
+.channel-emote[title=":hoofcummy:"],
+.channel-emote[title=":hoof:"],
+.channel-emote[title=":rodeo:"],
+.channel-emote[title=":tired:"],
+.channel-emote[title=":fsbong:"],
+.channel-emote[title=":bondage:"],
+.channel-emote[title=":classroom:"],
+.channel-emote[title=":lesbian:"],
+.channel-emote[title=":sleep:"],
+.channel-emote[title=":glimmering:"],
+.channel-emote[title=":angry:"],
+.channel-emote[title=":sock:"],
+.channel-emote[title=":fully:"],
+.channel-emote[title=":ready:"],
+.channel-emote[title=":blowjob:"],
+.channel-emote[title=":derpride:"],
+.channel-emote[title=":lunacare:"],
+.channel-emote[title=":fuckbox:"],
+.channel-emote[title=":trixfilling:"],
+.channel-emote[title=":change:"],
+.channel-emote[title=":ppfilling:"],
+.channel-emote[title=":realderpy:"],
+.channel-emote[title=":gayobey:"],
+.channel-emote[title=":gaysocks:"],
+.channel-emote[title=":gayjob:"],
+.channel-emote[title=":gayrut:"],
+.channel-emote[title=":salute:"],
+.channel-emote[title=":pregnant:"],
+.channel-emote[title=":dontcare:"],
+.channel-emote[title=":pregnantwet:"],
+.channel-emote[title=":pregnantfun:"],
+.channel-emote[title=":multihug1:"],
+.channel-emote[title=":multihug2:"],
+.channel-emote[title=":aryainvasion:"],
+.channel-emote[title=":milking:"],
+.channel-emote[title=":foalcon:"],
+.channel-emote[title=":morrowind:"],
+.channel-emote[title=":raisay:"],
+.channel-emote[title=":fluffroyal:"],
+.channel-emote[title=":baking:"],
+.channel-emote[title=":twixie:"],
+.channel-emote[title=":pikaparty1:"],
+.channel-emote[title=":pikaparty2:"],
+.channel-emote[title=":pikaballs:"],
+.channel-emote[title=":pikanom:"],
+.channel-emote[title=":pikaflower:"],
+.channel-emote[title=":sgfluff:"],
+.channel-emote[title=":nibblecare:"],
+.channel-emote[title=":fuckme:"],
+.channel-emote[title=":bdsm:"],
+.channel-emote[title=":sad:"],
+.channel-emote[title=":ducky:"],
+.channel-emote[title=":whipit:"],
+.channel-emote[title=":fucc:"],
+.channel-emote[title=":shot:"],
+.channel-emote[title=":kirinbeer:"],
+.channel-emote[title=":bpnom:"],
+.channel-emote[title=":depression:"],
+.channel-emote[title=":wishling:"],
+.channel-emote[title=":aryaspread:"],
+.channel-emote[title=":chill:"],
+.channel-emote[title=":snugs:"],
+.channel-emote[title=":ling:"],
+.channel-emote[title=":lingsleepy:"],
+.channel-emote[title=":lingnom:"],
+.channel-emote[title=":linguwu:"],
+.channel-emote[title=":linglove:"],
+.channel-emote[title=":lingpants:"],
+.channel-emote[title=":lingbed:"],
+.channel-emote[title=":linghappy:"],
+.channel-emote[title=":lingstare:"],
+.channel-emote[title=":lingbuzz:"],
+.channel-emote[title=":linggay:"],
+.channel-emote[title=":lingcare:"],
+.channel-emote[title=":lingcuck:"],
+.channel-emote[title=":linginflation:"],
+.channel-emote[title=":lingbreeding:"],
+.channel-emote[title=":linghooflick:"],
+.channel-emote[title=":lingmother:"],
+.channel-emote[title=":lingguard:"] {
+max-height: 128px!important;
+max-width:  256px!important;
+}
+
+.channel-emote[title=":queen:"],
+.channel-emote[title=":natural:"],
+.channel-emote[title=":watersports:"],
+.channel-emote[title=":lingtorture:"],
+.channel-emote[title=":linglust:"],
+.channel-emote[title=":lingerie:"],
+.channel-emote[title=":flag:"] {
+max-height: 256px!important;
+max-width:  256px!important;
+}
+
+
+.userlist_op {
+color: #2ecc71!important ;
+font-weight: bold;
+}
+div.chat-msg-op span strong img.chaticon { border: 3px solid rgba(46,204,113, 0.77)!important; }
+
+.userlist_owner {
+color: #1f8b4c!important ;
+font-weight: bold;
+}
+div.chat-msg-owner span strong img.chaticon { border: 3px solid rgba(31,139,76, 0.77)!important; }
+
+.userlist-AuroraChu {
+color: #00ffff !important;
+font-weight: bold!important;
+}
+.userlist-AuroraBot {
+color: #5540CB !important;
+font-weight: bold!important;
+}
+.userlist-StarlightBot {
+color: #5540CB !important;
+font-weight: bold!important;
+}
+.userlist-AryanneBot {
+color: #5540CB !important;
+font-weight: bold!important;
+}
+
+.userlist-GreatDestinyMan { color: #6600CC!important; }
+div.chat-msg-GreatDestinyMan span strong img.chaticon { border: 3px solid rgba(102,0,204, 0.77)!important; }
+.userlist-OneTrueDerp { color: #FF0066!important; }
+div.chat-msg-OneTrueDerp span strong img.chaticon { border: 3px solid rgba(255,0,102, 0.77)!important; }
+.userlist-tropercs { color: #3498db!important; }
+div.chat-msg-tropercs span strong img.chaticon { border: 3px solid rgba(52,152,219, 0.77)!important; }
+.userlist-GenH { color: #FFCC00!important; }
+div.chat-msg-GenH span strong img.chaticon { border: 3px solid rgba(255,204,0, 0.77)!important; }
+
+div.chat-msg-AuroraChu span strong img.chaticon { border: 3px solid rgba(0, 255, 255, 0.77); }
+div.chat-msg-AuroraBot span strong img.chaticon { border: 3px solid rgba(100,  50, 150, 0.77); }
+div.chat-msg-StarlightBot span strong img.chaticon { border: 3px solid rgba(100,  50, 150, 0.77); }
+div.chat-msg-AryanneBot span strong img.chaticon { border: 3px solid rgba(100,  50, 150, 0.77); }
+
+.userlist-AuroraChu:before { content: " [✠][=] " }
+.userlist-AuroraChu:after { content: "  " }
+
+.userlist-AuroraBot:before { content: " [🍕] " }
+.userlist-AuroraBot:after { content: " [🍕] " }
+.userlist-StarlightBot:before { content: " [=] " }
+.userlist-StarlightBot:after { content: " [=] " }
+.userlist-AryanneBot:before { content: " [卐] " }
+.userlist-AryanneBot:after { content: " [卐] " }
+
+.userlist-OneTrueDerp:before { content: " [🍕][♥] " }
+.userlist-OneTrueDerp:after { content: " " }
+.userlist-GreatDestinyMan:before { content: " [🍕][♥] " }
+.userlist-GreatDestinyMan:after { content: " " }
+
+.userlist-tropercs:before             { content: " [♥] " }
+.userlist-tropercs:after             { content: " [cuteling] " }
+.userlist-GenH:before             { content: " [♥] " }
+.userlist-GenH:after             { content: " [☀] " }
+
+.userlist-Reasor:after             { content: " [☎] " }
+.userlist-TollesBrot:after             { content: " [🍞] " }
+.userlist-Gunbunny:after             { content: " [Broodmare] " }
+.userlist-Firebolt1089:after             { content: " [✈] " }
+.userlist-MoonShard:after             { content: " [☾] " }
+.userlist--MoonShard-:after             { content: " [☾] " }
+.userlist-cheeselegsfag:after             { content: " [📚] " }
+.userlist-sparkelyfox:after             { content: " [☎] " }
