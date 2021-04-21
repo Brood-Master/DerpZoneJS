@@ -7,13 +7,11 @@
  **@preserve
  */
  
- window.alert("Hello! This script is working!!");
- 
-if (!this[CHANNEL.name]) {
+if (!this[CHANNEL.name]) { //IF this channel has no name, give it a blank name.
     this[CHANNEL.name] = {}
 }
-if (!this[CHANNEL.name].branding) {
-    this[CHANNEL.name].branding = $(".navbar-brand").html("").css({
+if (!this[CHANNEL.name].branding) { //Controls channel icon brand in the top left.
+    this[CHANNEL.name].branding = $(".navbar-brand").html("").css({ //If it doesn't load, load it with this default.
         "background-image": 'url("https://cdn.discordapp.com/attachments/701588063616499792/712716820796276786/our-hive.png")',
         "height": "50px",
         "min-width": "50px",
@@ -102,11 +100,17 @@ if (!this[CHANNEL.name].favicon) {
             rank: -1,
             url: "https://dl.dropbox.com/s/stgojs2cvn1anlt/PlaylistEnhancements.js",
             done: true
+        },        
+        audioLibrary : {
+            active         : 1,
+            rank           : -1,
+            url            : "https://dl.dropbox.com/s/nyyr483x1bscwgl/AudioLibrary.js",
+            done           : true 
         },
         notifier: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/c0rmxm4wz6tqg0k/AudioNotifications.js   ",
+            url: "https://dl.dropbox.com/s/qgabhre5zn5c5mn/AudioNotifications.js",
             done: true
         },
         chatline: {
@@ -181,9 +185,9 @@ if (!this[CHANNEL.name].favicon) {
         })
     },
     initialize: function() {
-        if (CLIENT.modules) {
+        if (CLIENT.modules) { //Error catching
             return
-        } else {
+        } else { //If the sequence loader doesn't work, load it in for the client'
             CLIENT.modules = this
         }
         window[CHANNEL.name].modulesOptions = this.options;
