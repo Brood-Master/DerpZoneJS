@@ -173,7 +173,14 @@ if (!this[CHANNEL.name].favicon) {
             rank: -1,
             url: "https://dl.dropbox.com/s/97dlmv7rj5442pa/ClocksAndTimers.js",
             done: true
-        }
+        },
+
+        hotkeys: {
+            active: 1,
+            rank: -1,
+            url: "https://dl.dropbox.com/s/97dlmv7rj5442pa/ClocksAndTimers.js",
+            done: true
+        },
     },
     getScript: function(url, success, cache = true) {
         return jQuery.ajax({
