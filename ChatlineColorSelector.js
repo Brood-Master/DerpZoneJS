@@ -60,9 +60,9 @@
             $("#chatline").on("colorTypeSet", (event => {
                 this.handleTypeSet(event.setting)
             }));
-            $("#chatline").on("fontSize", (event => {
+            /*$("#chatline").on("fontSize", (event => {
                 this.fontSize(event)
-            }));
+            }));*/
             this.createToggle();
             this.createStyle();
             this.registerCommand();
@@ -186,7 +186,7 @@
                 localStorage.setItem(`${CHANNEL.name}_chatlineToggle`, 1)
             }
         }
-        fontSize(event) {
+        /*fontSize(event) {
             var current = this.setting;
             if (isNaN(current.size)) current.size = 1;
             if (event.change == "up") {
@@ -200,7 +200,7 @@
             this.propagate(current, true);
             $("div.chat-msg-\\\\\\$server\\\\\\$:contains(Font size)").remove();
             return $("#messagebuffer").trigger("whisper", `Chatline: Font size modifier changed to ${current.size}em.`)
-        }
+        }*/
         generateChatlineColor() {
             function genHex() {
                 return Math.floor(Math.random() * 180 + 75).toString(16)
