@@ -19,7 +19,7 @@
             PinkMawile: "https://static1.e621.net/data/80/8f/808f9f8fda4787977956d6293e688c40.png",
             Luzion: "https://derpicdn.net/img/view/2019/9/14/2143560.gif",
             Cheeselegsfag: "https://derpicdn.net/img/view/2016/9/12/1247357.png",
-            GenH: "https://derpicdn.net/img/view/2019/6/25/2075025.jpeg",
+            GenH: "https://media.discordapp.net/attachments/833001879503503410/840994470903545907/wp3892405.jpg",
             Firebolt: "https://derpicdn.net/img/2019/10/16/2170945/large.png",
             Patrician_Cinephile: "https://cdn.discordapp.com/attachments/701588063616499792/706330091202019388/Patrician.png",
             Boona: "https://derpicdn.net/img/view/2016/2/16/1089756.png",
